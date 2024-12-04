@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    margin: 4.75vw 7.5vw 5.56vw;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding: .2rem 0;
+    gap: .75rem;
+}
+
+.logo img {
+    height: 2.125rem;
+    width: 2.125rem;
+}
+
+.logo span {
+    text-transform: uppercase;
+    font: 800 1.5rem/1.3 "Sora", sans-serif;
+}
